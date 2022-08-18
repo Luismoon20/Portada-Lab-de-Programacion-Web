@@ -1,6 +1,5 @@
 <html>
 <head>
-<title>Portada de Lab. de Programacion Web </title>
 </head>
 <p style="font-size: 30px ">Portada de Lab. de Programacion Web<p>
 <p style="font-size: x-large">M.I.I Carlos Adrian Perez Cortez<p>
