@@ -9,5 +9,5 @@
 <font face="Comic Sans MS,Arial,Verdana">Alan Mauricio Reyna Rodriguez Matr:1917008 Carrera:ITS<p>
 <font face="Comic Sans MS,Arial,Verdana">Luis Fernando Luna Cañamar Matr:1758362 Carrera:ITS<p>
 <font face="Comic Sans MS,Arial,Verdana">Alan Diaz Pinto Matr:1921919 Carrera:IAS<p>
-<p style="font-size: 30px ">>>>Practicas<p<<<>
+<p style="font-size: 30px ">Practicas<p>
 <body> 
